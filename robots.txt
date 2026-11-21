@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tapnova-website.verikarnalicollege.workers.dev/sitemap.xml
